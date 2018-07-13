@@ -1,0 +1,50 @@
+.header{
+	text-align: center;
+	padding: 10px 50px;
+	color: blue;
+}
+
+.page{
+	color: blue;
+	padding: 50px 250px;
+	text-align: center;
+}
+
+
+.Profile{
+	
+    width: 320px;
+    border: 5px solid gray;
+	padding: 10px 50px;
+	margin: 1px 500px;
+
+}
+
+.diary{
+	text-align: left;
+}
+
+.human{
+	width: 500px;
+	text-align: left;
+}
+
+.number{
+	width: 500px;
+	text-align: left;
+}
+
+
+.alarm{
+	
+	width: 500px;
+	text-align: left;
+
+}
+
+.date{
+	
+	width: 500px;
+	text-align: left;
+
+}

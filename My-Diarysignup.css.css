@@ -1,0 +1,106 @@
+.head1{
+	background-color: DarkCray;
+}
+
+
+
+
+	h1 {
+		font-weight: bold;
+		font-style: normal;
+		/*background-color: DarkCyan; */
+		font-size: 60px;
+		text-align: center;
+		text-decoration: all;
+		background color: #ee3e80;
+	}
+
+	h2{
+		font-weight: bold;
+		font-style: normal;
+		font-size: 20px;
+		text-align: center;
+		text-decoration: all;
+		color: #f92727;
+	}
+
+body {
+	font-family: sans-serif, Verdana, Arial;
+	height: 300px;
+	widows: 300px;
+	background-color: #fefefe;}
+
+
+	fieldset{
+	/*border: solid 3px #080808;*/
+	background-color:#4286f4 !important;
+	height: 950px;
+	width: 500px;
+	margin: auto;
+	}
+
+	legend .terms{
+		color: #FFF;
+		text-align: left;
+	}
+
+
+	form input{
+		font-family: Verdana, sans-serif, Arial, mono-space;
+		margin-top:20px;
+		padding: 15px 15px;
+		border-radius: 10px;
+		border:none;
+	}
+
+
+	.form-inputs{
+		border: 0px solid #d6cccc;
+	    width: 100%;
+	    padding: 15px 0px;
+	    margin-top: 10px;
+	    background-color: aliceblue;
+	}
+
+	p1{
+		background-color: #fffe3c;
+		text-align: center;
+		font-family: "Courier New", mono-space
+	}
+
+		
+	}
+	button{
+		padding: 10px 15px;
+		margin-left: 5px 7px;
+		border: none;
+		border-radius: 5px;
+		color: #CADdDF;
+		font-size: 15px;
+		background-color:#00f;
+		text-align: center;
+	}
+
+
+	.Line1{
+ 		position: relative;
+		font-size: 100px;
+		margin-left: 300px;
+		background-color: #fefefe;
+		top: 100%;
+		overflow: hidden;
+		text-align: center;
+		}
+
+
+	/*
+	<form>
+ 	 <fieldset>
+    <legend>Personalia:</legend>
+    Name: <input type="text"><br>
+    Email: <input type="text"><br>
+    Date of birth: <input type="text">
+  </fieldset>
+</form>
+*/
+
